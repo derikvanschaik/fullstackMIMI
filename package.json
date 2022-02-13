@@ -1,0 +1,15 @@
+{
+  "name": "fullstackmimi",
+  "version": "1.0.0",
+  "description": "full stack mimi ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yours Truly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
